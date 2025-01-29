@@ -35,5 +35,5 @@ Hi, I'm Abhishek Gautam, a blockchain developer with experience in building dece
 - **Tools and Frameworks**: Web3.js, IPFS, SDK development.
 
 ## Contact
-- **Email**: your.email@example.com
+- **Email**: abhigautam954820@gmail.com
 - **GitHub**: [github.com/abhishekgautam95](https://github.com/abhishekgautam95)
