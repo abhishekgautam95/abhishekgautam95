@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Abhishek Gautam
 
-### 🤖 AI/Python Developer & Builder
+### 🤖 AI Systems Builder · Python Developer · Open Source Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+Python+Developer+%26+Builder;Building+Intelligent+Real-World+Systems;LLMs+%7C+Agents+%7C+Blockchain+%7C+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+and+LLM+systems;Exploring+AI+engineering+from+first+principles;Turning+ideas+into+useful+open-source+projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## 🙋 About Me
 
-- 🚀 Passionate about **AI, Python**, and building real-world intelligent systems
-- 🧠 Love working with **LLMs, Autonomous Agents, and Generative AI**
-- ⛓️ Strong background in **Blockchain** (Solana, Ethereum) and full-stack development
-- 🌱 Currently deep-diving into **Deep Learning, LLMs, and Open Source**
-- 💡 I build things that matter — from AI companions to on-chain skill wallets
+- 🚀 I build practical systems around **AI agents, LLMs, and developer tools**
+- 🧠 Currently exploring **LLMs from scratch, AI engineering, model training, and agent orchestration**
+- 🛠️ Interested in reliable AI infrastructure, research automation, and intelligent productivity tools
+- ⛓️ Experienced with **blockchain, Solana, full-stack development, and open-source collaboration**
+- 🌱 I learn by building, experimenting, and sharing what I discover
 
 ---
 
@@ -32,8 +32,8 @@
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -57,15 +57,50 @@
 
 ## 🚀 Featured Projects
 
-| # | Project | Description | Tech Stack | Link |
-|---|---------|-------------|------------|------|
-| 🧠 | **vanguard** | Autonomous AI Supply Chain Risk Agent | Python, LLM, Gemini, Streamlit, PostgreSQL | [🔗 Repo](https://github.com/abhishekgautam95/vanguard) |
-| 🎓 | **CodeSensei** | AI Coding Judge & Mentor | TypeScript, React, Gemini AI | [🔗 Repo](https://github.com/abhishekgautam95/CodeSensei) |
-| 💚 | **ManSathi** | Mental Health AI Companion for India | TypeScript, React, Gemini | [🔗 Repo](https://github.com/abhishekgautam95/ManSathi) |
-| ⏳ | **ChronosLen1** | AI-Powered Temporal Vision App | TypeScript, React, AI | [🔗 Repo](https://github.com/abhishekgautam95/ChronosLen1) |
-| 🏆 | **Proof-of-Skill-Wallet** | On-Chain Living Resume with Skill NFTs | Next.js, Solana, Supabase | [🔗 Repo](https://github.com/abhishekgautam95/Proof-of-Skill-Wallet) |
-| 💳 | **CryptoPay** | Crypto Payment App | React, Solana, Ethereum | [🔗 Repo](https://github.com/abhishekgautam95/CryptoPay) |
-| 🔗 | **cross-chain-transfer** | Cross-Chain Asset Transfer | Node.js, Wormhole, Solana/ETH | [🔗 Repo](https://github.com/abhishekgautam95/cross-chain-transfer) |
+### 🧪 AI Research & LLM Engineering
+
+| Project | What it is | Link |
+|---|---|---|
+| **LLMs-from-scratch** | Learning how to implement a ChatGPT-like LLM in PyTorch from first principles | [🔗 Repository](https://github.com/abhishekgautam95/LLMs-from-scratch) |
+| **ai-engineering-from-scratch** | Hands-on experiments for learning, building, and shipping AI engineering projects | [🔗 Repository](https://github.com/abhishekgautam95/ai-engineering-from-scratch) |
+| **autoresearch** | Automated AI-agent research workflows for single-GPU nanochat training | [🔗 Repository](https://github.com/abhishekgautam95/autoresearch) |
+| **deepseek-harness** | Plugin-oriented harness for experimenting with DeepSeek workflows | [🔗 Repository](https://github.com/abhishekgautam95/deepseek-harness) |
+
+### ⚙️ AI Infrastructure & Agent Systems
+
+| Project | What it is | Link |
+|---|---|---|
+| **OmniRoute** | An AI gateway with multi-provider routing, model fallbacks, MCP/A2A support, and token-saving tools | [🔗 Repository](https://github.com/abhishekgautam95/OmniRoute) |
+| **openagents** | Open agent networks for collaborative AI development | [🔗 Repository](https://github.com/abhishekgautam95/openagents) |
+| **openjev** | Jev-compatible decision server built around DiffusionGemma | [🔗 Repository](https://github.com/abhishekgautam95/openjev) |
+| **genoffice** | Open-source AI office suite for documents, spreadsheets, presentations, PDFs, and Markdown | [🔗 Repository](https://github.com/abhishekgautam95/genoffice) |
+
+### 🌍 Earlier Product Experiments
+
+| Project | What it is | Link |
+|---|---|---|
+| **vanguard** | Autonomous AI supply-chain risk agent | [🔗 Repository](https://github.com/abhishekgautam95/vanguard) |
+| **CodeSensei** | AI coding judge and mentor | [🔗 Repository](https://github.com/abhishekgautam95/CodeSensei) |
+| **ManSathi** | Mental-health AI companion for India | [🔗 Repository](https://github.com/abhishekgautam95/ManSathi) |
+| **Proof-of-Skill-Wallet** | On-chain living resume with skill credentials | [🔗 Repository](https://github.com/abhishekgautam95/Proof-of-Skill-Wallet) |
+| **GuardianX** | AI-powered security for Solana wallets | [🔗 Repository](https://github.com/abhishekgautam95/GuardianX) |
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 **LLMs from first principles** — tokenization, attention, transformers, and training
+- 🤖 **AI agents** — tool use, orchestration, research automation, and multi-agent systems
+- ⚡ **AI infrastructure** — inference gateways, routing, evaluation, and efficient deployment
+- 🌍 **Open source** — contributing to and learning from ambitious developer projects
+
+---
+
+## 🤝 Open To
+
+- 🛠️ Collaborating on **AI agents, LLM applications, and developer tools**
+- 🤝 Open-source projects involving **Python, AI infrastructure, or blockchain**
+- 💡 Building useful products that combine intelligent systems with great user experiences
 
 ---
 
@@ -80,22 +115,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgautam95&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-- 🧠 **Deep Learning** — Neural networks, CNNs, Transformers
-- 🤖 **LLMs & Agents** — Autonomous AI systems, RAG pipelines, tool use
-- 🌍 **Open Source Contributions** — Contributing to AI/ML and blockchain projects
-
----
-
-## 🤝 Open To
-
-- 🛠️ **Open Source Contributions** — AI, Python, blockchain projects
-- 🤝 **Collaborations** — Building intelligent, impactful products
-- 🤖 **AI/ML Projects** — LLM applications, autonomous agents, data pipelines
 
 ---
 
